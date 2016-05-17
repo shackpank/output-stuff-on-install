@@ -1,0 +1,12 @@
+{
+  "name": "output-stuff-on-install",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "echo \"Hi. This is version 1.0 of the module.\""
+  },
+  "author": "",
+  "license": "ISC"
+}
